@@ -8,7 +8,7 @@
 <!-- ![look](https://user-images.githubusercontent.com/96011603/211868482-5ea4facc-224e-4591-bd50-fd53f5be999a.gif) -->
 
 [![My Activity](https://github-readme-activity-graph.cyclic.app/graph?username=liam-iv&custom_title=My%20Activity&bg_color=0D1117&color=FFFFFFfa&line=808080fa&point=FFFFFFfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-### 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools 
 
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-090909?style=for-the-badge&logo=TYPESCRIPT)
@@ -20,6 +20,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
 
 ![codewars](https://www.codewars.com/users/Isaev3-IV/badges/micro)
+
 
 <!-- ### 🗂 Projects
 📍 <a href="https://liam-iv.github.io/password-generator">Web App для мгновенного создания безопасного пароля</a>
@@ -33,6 +34,8 @@
   [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/bgpositioncenter)
   [![Gmail](https://img.shields.io/badge/-GMAIL-090909?style=for-the-badge&logo=gmail)](...)
   
-<img width="180em" src="https://user-images.githubusercontent.com/96011603/211861450-c468db4d-90b0-4c9c-8f2e-50c3bd705bf1.gif"/>
+<!-- <img width="180em" src="https://user-images.githubusercontent.com/96011603/211861450-c468db4d-90b0-4c9c-8f2e-50c3bd705bf1.gif"/> -->
+<img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" align="left"> <br>
+
 
 ![look](https://user-images.githubusercontent.com/96011603/211858547-fafd92a4-b773-4c46-94d8-518ff3ce5036.gif)
