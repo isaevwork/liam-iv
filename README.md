@@ -6,7 +6,6 @@
 #
 <!-- ![look](https://user-images.githubusercontent.com/96011603/211868482-5ea4facc-224e-4591-bd50-fd53f5be999a.gif) -->
 
-[![My Activity](https://github-readme-activity-graph.cyclic.app/graph?username=liam-iv&custom_title=My%20Activity&bg_color=0D1117&color=FFFFFFfa&line=808080fa&point=FFFFFFfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### 🛠️ Technologies & Tools 
 
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
